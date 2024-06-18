@@ -1,0 +1,10 @@
+{
+    "input_file" : ".docx",
+    "output_file" : ".docx",
+    "model" : "llama3",
+    "custom_system" : "Only strictly translate the text that is in English into Portuguese",
+    "blacklist" : [
+        ""
+    ]
+
+}
